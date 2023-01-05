@@ -1,3 +1,3 @@
 # toDoLister
 Web Application Project
-#HTML, CSS, JavaScript
+# HTML, CSS, JavaScript
